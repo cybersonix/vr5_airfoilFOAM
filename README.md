@@ -21,6 +21,10 @@ CL v CD
 
 <img src="./pics/CL_CD.svg" width="600">
 
+Ma=0.2, AOA=14°
+
+<img src="https://github.com/sunhaonuaa/vr5_airfoilFOAM/blob/master/pics/Ma_0.2_aoa_14.gif" width="1200">
+
 Ma=0.4, AOA=5°
 
 <img src="https://github.com/sunhaonuaa/vr5_airfoilFOAM/blob/master/pics/Ma_0.4_aoa_5.gif" width="1200">
