@@ -1,5 +1,5 @@
 # Author: Sun Hao
-# Contact: sunhaoaero@nuaa.edu.cn
+# Contact: sunhaonuaa@outlook.com
 # Copyright (c) 2022 Sun Hao, All rights reserved.
 
 import math

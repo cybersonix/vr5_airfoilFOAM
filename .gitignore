@@ -4,5 +4,6 @@
 *.lay
 *.ai
 *.mp4
+*.sh
 .idea
 airfoil2D

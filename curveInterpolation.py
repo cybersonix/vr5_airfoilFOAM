@@ -1,3 +1,7 @@
+# Author: Sun Hao
+# Contact: sunhaonuaa@outlook.com
+# Copyright (c) 2022 Sun Hao, All rights reserved.
+
 import numpy as np
 from geomdl import BSpline, operations
 from geomdl import utilities

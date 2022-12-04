@@ -3,6 +3,12 @@
 
 This project is under construction. If you are interested in the content, please email me.
 
+## Mesh ( From [curiosityFluidsAirfoilMesher](https://github.com/curiosityFluids/curiosityFluidsAirfoilMesher) )
+
+<img src="./pics/mesh_1.png" width="600">
+
+<img src="./pics/mesh_2.png" width="600">
+
 ## Some of the results
 
 CL v AOA
@@ -23,16 +29,16 @@ CL v CD
 
 Ma=0.2, AOA=14°
 
-<img src="https://github.com/sunhaonuaa/vr5_airfoilFOAM/blob/master/pics/Ma_0.2_aoa_14.gif" width="1200">
+<img src="./pics/Ma_0.2_aoa_14.gif" width="1200">
 
 Ma=0.4, AOA=5°
 
-<img src="https://github.com/sunhaonuaa/vr5_airfoilFOAM/blob/master/pics/Ma_0.4_aoa_5.gif" width="1200">
+<img src="./pics/Ma_0.4_aoa_5.gif" width="1200">
 
 Ma=0.6, AOA=25°
 
-<img src="https://github.com/sunhaonuaa/vr5_airfoilFOAM/blob/master/pics/Ma_0.6_aoa_25.gif" width="1200">
+<img src="./pics/Ma_0.6_aoa_25.gif" width="1200">
 
 Ma=0.8, AOA=20°
 
-<img src="https://github.com/sunhaonuaa/vr5_airfoilFOAM/blob/master/pics/Ma_0.8_aoa_20.gif" width="1200">
+<img src="./pics/Ma_0.8_aoa_20.gif" width="1200">
