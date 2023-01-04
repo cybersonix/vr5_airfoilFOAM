@@ -2,8 +2,10 @@
 *.bat
 *.lpk
 *.lay
+*.plt
 *.ai
 *.mp4
 *.sh
 .idea
 airfoil2D
+paper

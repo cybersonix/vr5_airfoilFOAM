@@ -76,7 +76,7 @@ def draw_forcecoeffs(x, y, x_label, y_label, path):
             curve = fitting.interpolate_curve(points, degree)
             evalpts = np.array(curve.evalpts)
 
-            plt.plot(evalpts[:, 0], evalpts[:, 1], label="Ma="+str(Ma[int((ii+1) / len(AOA) - 1)]))
+            plt.plot(evalpts[:, 0], evalpts[:, 1], label="Ma=" + str(Ma[int((ii + 1) / len(AOA) - 1)]))
             # 绘制数值点
             # pts = np.array(points)
             # plt.scatter(pts[:, 0], pts[:, 1], color="red")
@@ -125,9 +125,9 @@ if __name__ == '__main__':
             f.close()
             os.chdir("../../../")
     draw_forcecoeffs(np.tile(AOA, len(Ma)), CL, "Angle of Attack ($\mathrm{°}$)", "$\mathrm{C_L}$",
-                       "pics/CL_AOA.svg")
+                     "pics/CL_AOA.svg")
     draw_forcecoeffs(np.tile(AOA, len(Ma)), CD, "Angle of Attack ($\mathrm{°}$)", "$\mathrm{C_D}$",
-                       "pics/CD_AOA.svg")
+                     "pics/CD_AOA.svg")
     draw_forcecoeffs(np.tile(AOA, len(Ma)), CM, "Angle of Attack ($\mathrm{°}$)", "$\mathrm{C_M}$",
-                       "pics/CM_AOA.svg")
+                     "pics/CM_AOA.svg")
     draw_forcecoeffs(CD, CL, "$\mathrm{C_D}$", "$\mathrm{C_L}$", "pics/CL_CD.svg")
