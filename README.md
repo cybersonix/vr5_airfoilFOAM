@@ -1,7 +1,5 @@
 # vr5_airfoilFOAM
-**For personal use only in study and research.**
-
-This project is under construction. If you are interested in the content, please email me.
+This is a simple 2D-airfoil CFD case using OpenFOAM v10. **Only use for study and research.**
 
 ## Mesh ( From [curiosityFluidsAirfoilMesher](https://github.com/curiosityFluids/curiosityFluidsAirfoilMesher) )
 

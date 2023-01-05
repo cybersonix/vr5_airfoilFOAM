@@ -88,7 +88,7 @@ def draw_forcecoeffs(x, y, x_label, y_label, path):
     # plt.title('Force Coeffs')
     plt.legend(loc="best", fontsize=12, frameon=False)
     # 保存图片至本地
-    plt.savefig(path, transparent=True)
+    plt.savefig(path, transparent=False)
     # plt.show()
     plt.close()
 
