@@ -7,7 +7,7 @@ This is a simple 2D-airfoil CFD case using OpenFOAM v10. **Only use for study an
 
 <img src="./pics/mesh_2.png" width="600">
 
-## Some of the results
+## Some results
 
 CL v AOA
 
